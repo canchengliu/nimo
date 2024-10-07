@@ -124,6 +124,8 @@ _Algorithm Engineer_<br>
   - Led the design and implementation of core platform functions, integrated internal systems with multi-source data, and guided IT and business teams in developing applications to meet specific requirements.
   - Designed and optimized applications for complex business scenarios using technologies such as RAG (Retrieval-Augmented Generation), CoT (Chain of Thought), Workflow, and Agent.
 
+<br>
+
 ### **Thorough Image** `Dec 2017 – Jun 2022`
 
 _Algorithm Engineer_<br>
@@ -137,6 +139,8 @@ _Algorithm Engineer_<br>
   - Conducted experimental research, organized project findings, and co-authored papers published in journals such as Nature Communications in 2020.
   - Partnered with the product development team to drive the clinical translation and application of technological achievements.
 
+<br>
+
 ### **Institute of Data Science, Tsinghua University** `Sep/2017 – Dec/2017`
 
 _Algorithm Engineer_<br>
@@ -145,12 +149,16 @@ _Algorithm Engineer_<br>
   - Expanded and enhanced the training dataset by using PyLaTeX to automatically generate diverse and annotated table data.
   - Trained and optimized various detection and recognition models, achieving high-precision table structure recognition and content extraction.
 
+<br>
+
 ### **JD Finance - Risk Management Department** `Jun/2016 – Sep/2017`
 
 _Data Mining Engineer_<br>
 
 - **Fraud Detection Based on User Browsing Behavior:** Developed a real-time fraud detection system that accurately identified and prevented fraudulent transactions by analyzing user browsing behavior sequences. Research results were published at the ECML PKDD 2017 conference.
 - **Fraud Detection Based on Relational Networks:** Built a relational network with various node types based on user information and browsing behavior. Implemented graph-related algorithms using Spark GraphX to identify potential risk users by tracing blacklisted users and flagging graylisted ones.
+
+<br>
 
 ### **Alibaba - YunOS** `Jul/2015 – Aug/2015`
 
