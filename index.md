@@ -124,8 +124,6 @@ _Algorithm Engineer_<br>
   - Led the design and implementation of core platform functions, integrated internal systems with multi-source data, and guided IT and business teams in developing applications to meet specific requirements.
   - Designed and optimized applications for complex business scenarios using technologies such as RAG (Retrieval-Augmented Generation), CoT (Chain of Thought), Workflow, and Agent.
 
-<br>
-
 ### **Thorough Image** `Dec 2017 – Jun 2022`
 
 _Algorithm Engineer_<br>
