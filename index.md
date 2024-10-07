@@ -115,6 +115,8 @@ _Algorithm Engineer_<br>
   - Partnered with the product development team to drive the clinical translation and application of technological achievements.
 
 <br>
+<br>
+<br>
 
 ### **Institute of Data Science, Tsinghua University** `Sep/2017 – Dec/2017`
 
