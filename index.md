@@ -1,15 +1,17 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Cancheng Liu
 email:
-  url: mailto:nimo@cmu.edu
-  text: nimo@cmu.edu
+  url: mailto:canchengliu@foxmail.com
+  text: canchengliu@foxmail.com
+phone: +86 17801001934
 homepage:
-  url: https://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=2-HpgTYAAAAJ
+  text: scholar.google.com/citations
 ---
 
-# Wode **Ni**
+<!-- # Wode **Liu** -->
+# Cancheng **Liu**
 
 <!--
 include contact information from the front matter
@@ -23,121 +25,68 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Sun Yat-sen University** `2012.9 - 2016.6`
 
 ```
-Pittsburgh, PA
+GuangZhou, China
 ```
 
-- Ph.D. in Software Engineering
-- MS in 2021
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Bachelor of Software Engineering
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
-### **Codifying Visual Representations**
-**Wode Ni**, Sam Estep, Hwei-Shin Harriman, Jiří Minarčík, and Joshua Sunshine. <br>
-_To appear in Proceedings of the 14th International Conference on the Theory and Application of Diagrams (DIAGRAMS'24)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/diagrams-24-penrose.pdf)]
+### [**Session-based fraud detection in online e-commerce transactions using recurrent neural networks**](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/SWang_ECMLPKDD_2017.pdf)
 
-### **Rose: Composable Autodiff for the Interactive Web**
-Sam Estep, **Wode Ni**, Raven Rothkopf, and Joshua Sunshine. <br>
-_To appear in Proceedings of the 38th European Conference on Object-Oriented Programming (ECOOP'24)._ <br>
-[[PDF](https://arxiv.org/pdf/2402.17743.pdf)]
+Wang Shuhao, **Liu Cancheng**, Gao Xiang, Qu Hongtao, Xu Wei, and .  
+*ECML PKDD*, 241-252, 2017.  
+[[PDF](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/SWang_ECMLPKDD_2017.pdf)]
 
-### **Edgeworth: Efficient and Scalable Authoring of Visual Thinking Activities**
-**Wode Ni**, Sam Estep, Hwei-Shin Harriman, Ken Koedinger, and Joshua Sunshine. <br>
-_To appear in Proceedings of the 11th ACM Conference on Learning @ Scale (L@S'24)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/las-24-edgeworth.pdf)]
+### [**Camel: A weakly supervised learning framework for histopathology image segmentation**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf)
 
+Xu Gang, Song Zhigang, Sun Zhuo, Ku Calvin, Yang Zhe, **Liu Cancheng**, Wang Shuhao, Ma Jianpeng, Xu Wei, and .  
+*ICCV*, 10682-10691, 2019.  
+[[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf)]
 
-### **Minkowski Penalties: Robust Differentiable Constraint Enforcement for Vector Graphics**
-Jiří Minarčík, Sam Estep, **Wode Ni**, and Keenan Crane. <br>
-_To appear in ACM SIGGRAPH 2024 Conference Proceedings (SIGGRAPH'24)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/siggraph-24-minkowski.pdf)]
+### [**Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning**](https://www.nature.com/articles/s41467-020-18147-8.pdf)
 
-### **Syntactic Code Search with Sequence-to-Tree Matching**
-Gabriel Matute, **Wode Ni**, Titus Barik, Alvin Cheung, and Sarah E. Chasins.<br> 
-_To appear in Proceedings of the ACM on Programming Languages (PLDI'24)._ <br>
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3656460)]
+Song Zhigang, Zou Shuangmei, Zhou Weixun, Huang Yong, Shao Liwei, Yuan Jing, Gou Xiangnan, Jin Wei, Wang Zhanbo, Chen Xin, ... **Liu Cancheng** and .  
+*Nature communications*, **11.0**(1.0), 4294, 2020.  
+[[PDF](https://www.nature.com/articles/s41467-020-18147-8.pdf)]
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+### [**Automatic deep learning-based colorectal adenoma detection system and its similarities with pathologists**](https://bmjopen.bmj.com/content/bmjopen/10/9/e036423.full.pdf)
 
+Song Zhigang, Yu Chunkai, Zou Shuangmei, Wang Wenmiao, Huang Yong, Ding Xiaohui, Liu Jinhong, Shao Liwei, Yuan Jing, Gou Xiangnan, and .  
+*BMJ open*, **10.0**(9.0), e036423, 2020.  
+[[PDF](https://bmjopen.bmj.com/content/bmjopen/10/9/e036423.full.pdf)]
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+### [**Assessment of deep learning assistance for the pathological diagnosis of gastric cancer**](https://www.sciencedirect.com/science/article/pii/S0893395222002824/pdfft?md5=80e8311c9fa8039e43cb707a125779e2&pid=1-s2.0-S0893395222002824-main.pdf)
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+Ba Wei, Wang Shuhao, Shang Meixia, Zhang Ziyan, Wu Huan, Yu Chunkai, Xing Ranran, Wang Wenjuan, Wang Lang, **Liu Cancheng**, and .  
+*Modern Pathology*, **35.0**(9.0), 1262-1268, 2022.  
+[[PDF](https://www.sciencedirect.com/science/article/pii/S0893395222002824/pdfft?md5=80e8311c9fa8039e43cb707a125779e2&pid=1-s2.0-S0893395222002824-main.pdf)]
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+### [**Automatic detection of squamous cell carcinoma metastasis in esophageal lymph nodes using semantic segmentation**](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)
 
+Pan Yi, Sun Zhuo, Wang Wenmiao, Yang Zhaoyang, Jia Jia, Feng Xiaolong, Wang Yaxi, Fang Qing, Li Jiangtao, Dai Hongtian, and .  
+*Clinical and Translational Medicine*, **10.0**(3.0), e129, 2020.  
+[[PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)]
 
-### [**Generating Domain-Specific Programs for Diagram Authoring with Large Language Models**](https://wodenimoni.com/assets/splash-23-llm-diagrams.pdf)
+### [**Histopathological diagnosis system for gastritis using deep learning algorithm**]
 
-Rijul Jain, **Wode Ni**, and Joshua Sunshine.<br>
-_SPLASH 2023: Companion Proceedings of the 2023 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH'23 EA)._<br>
-[[PDF](https://wodenimoni.com/assets/splash-23-llm-diagrams.pdf)]
+Ba Wei, Wang Shuhao, **Liu Cancheng**, Wang Yuefeng, Shi Huaiyin, Song Zhigang, and .  
+*Chinese Medical Sciences Journal*, **36.0**(3.0), 204-209, 2021.  
 
+### [**Clinically applicable Gleason grading (GD) system for prostate cancer based on deep learning**](https://journals.lww.com/cmj/fulltext/2021/04050/clinically_applicable_gleason_grading__gd__system.19.aspx)
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
+Niu Yun, Liu Can-Cheng, Zhang Bing-Lin, Song Zhi-Gang, Chen Huang, Liu Ping-Ping, Chen Jing-Si, Wang Shu-Hao, Shi Huai-Yin, Zhong Ding-Rong, and .  
+*Chinese Medical Journal*, **134.0**(7.0), 859-861, 2021.  
+[[PDF](https://journals.lww.com/cmj/fulltext/2021/04050/clinically_applicable_gleason_grading__gd__system.19.aspx)]
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+### [**Transfer of manual annotation in digital pathological images of colorectal cancer with different scanners**]
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+Li Jiangtao, Zheng Bo, Pan Yi, Wang Shuhao, **Liu Cancheng**, Lyu Ning, Sun Zhuo, Zou Shuangmei, and .  
+*Chinese Journal of Colorectal Diseases (Electronic Edition)*, **9.0**(5.0), 475, 2020.  
 
 ## Patent
 
@@ -145,69 +94,31 @@ Titus Barik, Gustavo Soares, Piyush Arora, Peter Groenewegen, Sumit Gulwani, Ame
 
 Gustavo Soares, Piyush Arora, Titus Barik, Peter Groenewegen, Sumit Gulwani, Ameya Ketkar, Vu Le, **Wode Ni**, David Pugh, Arjun Radhakrishna, Ivan Radicek, Ashish Tiwari, Mark Wilson-Thomas. Edit automation using a temporal edit pattern.  *US Patent 2024/11875136 B2	2024*.
 
-## Experience
+## Research Experience
 ### **Apple** `2022.5 - 2022.9`
 
 _Research Intern - Machine Intelligence_<br>
 
 At [Apple AI/ML](https://machinelearning.apple.com/), I worked on prototypes and features to improve the developer experience. Shipped [improved Swift code completion](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_3-release-notes#Source-Editor) in Xcode and designed an syntactic code search algorithm published at PLDI'24.
 
-### **Microsoft Research** `2020.5 - 2020.8`
+## Work Experience
+### **Apple** `2022.5 - 2022.9`
 
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience, published at UIST'21.
+_Research Intern - Machine Intelligence_<br>
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+At [Apple AI/ML](https://machinelearning.apple.com/), I worked on prototypes and features to improve the developer experience. Shipped [improved Swift code completion](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_3-release-notes#Source-Editor) in Xcode and designed an syntactic code search algorithm published at PLDI'24.
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-## Teaching
-
-Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-## Mentoring
-
-[Kyle Lee](https://github.com/kyleleesea) (CMU) `CMU, 2024` <br>
-[Griffin Teller](https://griffinteller.com/) (CMU) `CMU, 2024` <br>
-[Rijul Jain](https://rijuljain.com/) (Williams College) `CMU, 2023 - 2024` <br>
-[Yiliang "Leo" Liang](https://www.linkedin.com/in/yiliang-liang-a3631a138/) (University of Michigan) `CMU, 2022 - 2023` <br>
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering) `CMU, 2021 - 2022` <br>
-[Helena Yang](https://heleaf.me/) (CMU) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College) `CMU, 2019` <br>
+## Skills
+**Programming Languages:** Python, C++, Scala <br>
+**AI Frameworks:** PyTorch, TensorFlow, DeepSpeed, Accelerate <br>
+**Algorithms:** CNN, RNN, Transformers, CLIP, Generative Models <br>
+**Big Data:** Frameworks (Spark, Hadoop, Hive), Middleware (Kafka), Storage (NoSQL Databases, S3), ETL <br>
+**DevOps:** Docker, Kubernetes, Jenkins <br>
 
 ## Honors & Awards
 
 CMU Open Source Office Fellowship, supported by the Alfred P. Sloan Foundation `CMU, 2023-2024` <br>
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
 
-## Service
-
-S3D Department head search committee `CMU, 2024` <br>
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22, UIST'23, CHI'24` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2023` <br>
 
 <!-- ### Footer
 
