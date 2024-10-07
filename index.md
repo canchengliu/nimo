@@ -83,7 +83,7 @@ Pan Yi, Sun Zhuo, Wang Wenmiao, Yang Zhaoyang, Jia Jia, Feng Xiaolong, Wang Yaxi
 
 ## Patents
 
-Applied for and granted 9 Chinese patents, including the pathology-aided diagnostic system based on artificial intelligence (Publication No. CN109360646A).
+Applied for and granted 9 Chinese patents, including the _pathology-aided diagnostic system based on artificial intelligence (Publication No. CN109360646A)_.
 
 ## Research Experience
 
