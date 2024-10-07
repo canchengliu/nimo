@@ -42,31 +42,26 @@ GuangZhou, China
 
 Wang Shuhao, **Liu Cancheng**, Gao Xiang, Qu Hongtao, Xu Wei, and .  
 *ECML PKDD*, 241-252, 2017.  
-[[PDF](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/SWang_ECMLPKDD_2017.pdf)]
 
 ### [**Camel: A weakly supervised learning framework for histopathology image segmentation**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf)
 
 Xu Gang, Song Zhigang, Sun Zhuo, Ku Calvin, Yang Zhe, **Liu Cancheng**, Wang Shuhao, Ma Jianpeng, Xu Wei, and .  
 *ICCV*, 10682-10691, 2019.  
-[[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf)]
 
 ### [**Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning**](https://www.nature.com/articles/s41467-020-18147-8.pdf)
 
 Song Zhigang, Zou Shuangmei, Zhou Weixun, Huang Yong, Shao Liwei, Yuan Jing, Gou Xiangnan, Jin Wei, Wang Zhanbo, Chen Xin, ... **Liu Cancheng** and .  
 *Nature communications*, **11.0**(1.0), 4294, 2020.  
-[[PDF](https://www.nature.com/articles/s41467-020-18147-8.pdf)]
 
 ### [**Automatic deep learning-based colorectal adenoma detection system and its similarities with pathologists**](https://bmjopen.bmj.com/content/bmjopen/10/9/e036423.full.pdf)
 
 Song Zhigang, Yu Chunkai, Zou Shuangmei, Wang Wenmiao, Huang Yong, Ding Xiaohui, Liu Jinhong, Shao Liwei, Yuan Jing, Gou Xiangnan, and .  
 *BMJ open*, **10.0**(9.0), e036423, 2020.  
-[[PDF](https://bmjopen.bmj.com/content/bmjopen/10/9/e036423.full.pdf)]
 
 ### [**Assessment of deep learning assistance for the pathological diagnosis of gastric cancer**](https://www.sciencedirect.com/science/article/pii/S0893395222002824/pdfft?md5=80e8311c9fa8039e43cb707a125779e2&pid=1-s2.0-S0893395222002824-main.pdf)
 
 Ba Wei, Wang Shuhao, Shang Meixia, Zhang Ziyan, Wu Huan, Yu Chunkai, Xing Ranran, Wang Wenjuan, Wang Lang, **Liu Cancheng**, and .  
 *Modern Pathology*, **35.0**(9.0), 1262-1268, 2022.  
-[[PDF](https://www.sciencedirect.com/science/article/pii/S0893395222002824/pdfft?md5=80e8311c9fa8039e43cb707a125779e2&pid=1-s2.0-S0893395222002824-main.pdf)]
 
 ### [**Automatic detection of squamous cell carcinoma metastasis in esophageal lymph nodes using semantic segmentation**](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)
 
@@ -74,7 +69,7 @@ Pan Yi, Sun Zhuo, Wang Wenmiao, Yang Zhaoyang, Jia Jia, Feng Xiaolong, Wang Yaxi
 *Clinical and Translational Medicine*, **10.0**(3.0), e129, 2020.  
 [[PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)]
 
-### [**Histopathological diagnosis system for gastritis using deep learning algorithm**]
+### **Histopathological diagnosis system for gastritis using deep learning algorithm**
 
 Ba Wei, Wang Shuhao, **Liu Cancheng**, Wang Yuefeng, Shi Huaiyin, Song Zhigang, and .  
 *Chinese Medical Sciences Journal*, **36.0**(3.0), 204-209, 2021.  
@@ -83,9 +78,8 @@ Ba Wei, Wang Shuhao, **Liu Cancheng**, Wang Yuefeng, Shi Huaiyin, Song Zhigang, 
 
 Niu Yun, Liu Can-Cheng, Zhang Bing-Lin, Song Zhi-Gang, Chen Huang, Liu Ping-Ping, Chen Jing-Si, Wang Shu-Hao, Shi Huai-Yin, Zhong Ding-Rong, and .  
 *Chinese Medical Journal*, **134.0**(7.0), 859-861, 2021.  
-[[PDF](https://journals.lww.com/cmj/fulltext/2021/04050/clinically_applicable_gleason_grading__gd__system.19.aspx)]
 
-### [**Transfer of manual annotation in digital pathological images of colorectal cancer with different scanners**]
+### **Transfer of manual annotation in digital pathological images of colorectal cancer with different scanners**
 
 Li Jiangtao, Zheng Bo, Pan Yi, Wang Shuhao, **Liu Cancheng**, Lyu Ning, Sun Zhuo, Zou Shuangmei, and .  
 *Chinese Journal of Colorectal Diseases (Electronic Edition)*, **9.0**(5.0), 475, 2020.  
@@ -99,21 +93,21 @@ Applied for and granted 9 Chinese patents, including the pathology-aided diagnos
 **Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks (ECML PKDD'17)**
 Data Mining Engineer, JD Finance, Beijing, China<br>
 Jun/2016 – Sep/2017<br>
-- Fraud Detection System Design and Implementation: Design and deployment of CLUE, a deep-learning-based fraud detection system using Recurrent Neural Networks (RNN) for JD.com. The system efficiently captured user behavior through click sequences to identify fraudulent patterns in online transactions.
-- Feature Extraction and Data Preprocessing: Developed innovative techniques for feature extraction from raw web server logs, focusing on user click sequences. Utilized neural-network-based embeddings such as Item2Vec to represent detailed user behavior, improving the accuracy of fraud detection.
+- **Fraud Detection System Design and Implementation:** Design and deployment of CLUE, a deep-learning-based fraud detection system using Recurrent Neural Networks (RNN) for JD.com. The system efficiently captured user behavior through click sequences to identify fraudulent patterns in online transactions.
+- **Feature Extraction and Data Preprocessing:** Developed innovative techniques for feature extraction from raw web server logs, focusing on user click sequences. Utilized neural-network-based embeddings such as Item2Vec to represent detailed user behavior, improving the accuracy of fraud detection.
 - Addressing Imbalanced Datasets and Concept Drift: Tackled challenges posed by highly imbalanced datasets (fraudulent transactions represent less than 0.1% of the total) and the dynamic nature of fraudulent behaviors (concept drift). Applied undersampling, thresholding, and incremental model updates to improve detection efficiency.
-
+<br>
 **CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation (ICCV'19)**
 Algorithm Engineer, Thorough Image, Beijing, China<br>
 Aug/2018 – Jul/2019<br>
-- Weakly Supervised Learning Framework: Designed and implemented CAMEL, a weakly supervised learning framework that utilizes only image-level labels to automatically generate instance-level and approximate pixel-level annotations, significantly reducing the reliance on labor-intensive pixel-level labeling for cancerous region segmentation in histopathology images.
-- Advanced Label Enrichment Techniques: Developed and integrated combined Multiple Instance Learning (cMIL) with Max-Max and Max-Min criteria, alongside cascade data enhancement and image-level constraints, to enrich supervision information. Achieved performance on par with fully supervised methods in both instance-level classification and pixel-level segmentation on benchmark datasets such as CAMELYON16 and a colorectal adenoma dataset.
-
+- **Weakly Supervised Learning Framework:** Designed and implemented CAMEL, a weakly supervised learning framework that utilizes only image-level labels to automatically generate instance-level and approximate pixel-level annotations, significantly reducing the reliance on labor-intensive pixel-level labeling for cancerous region segmentation in histopathology images.
+- **Advanced Label Enrichment Techniques:** Developed and integrated combined Multiple Instance Learning (cMIL) with Max-Max and Max-Min criteria, alongside cascade data enhancement and image-level constraints, to enrich supervision information. Achieved performance on par with fully supervised methods in both instance-level classification and pixel-level segmentation on benchmark datasets such as CAMELYON16 and a colorectal adenoma dataset.
+<br>
 **Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning (Nature communications'20)**
 Algorithm Engineer, Thorough Image, Beijing, China<br>
 Feb/2019 – Aug/2020<br>
-- Achieved High Diagnostic Performance: Developed a deep convolutional neural network, trained with 2,123 pixel-level annotated H&E-stained whole slide images (WSIs) to accurately detect gastric cancer. Attained over 99% sensitivity and an average specificity of 80.6% on a real-world test dataset of 3,212 WSIs from three different digital scanners, ensuring robust performance across diverse imaging equipment.
-- Conducted Multicenter Validation: Executed extensive multicenter testing using 1,582 WSIs from two additional medical centers, confirming the system’s consistency and reliability in varied clinical environments.
+- **Achieved High Diagnostic Performance:** Developed a deep convolutional neural network, trained with 2,123 pixel-level annotated H&E-stained whole slide images (WSIs) to accurately detect gastric cancer. Attained over 99% sensitivity and an average specificity of 80.6% on a real-world test dataset of 3,212 WSIs from three different digital scanners, ensuring robust performance across diverse imaging equipment.
+- **Conducted Multicenter Validation:** Executed extensive multicenter testing using 1,582 WSIs from two additional medical centers, confirming the system’s consistency and reliability in varied clinical environments.
 - Enhanced Diagnostic Accuracy and Clinical Utility: Demonstrated that the AI assistance system significantly improved pathologists’ diagnostic accuracy and reduced misdiagnoses during trial deployments, highlighting its potential for integration into routine clinical practice to alleviate pathologist workload and enhance patient outcomes.
 
 ## Work Experience
