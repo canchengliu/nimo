@@ -87,7 +87,7 @@ Applied for and granted 9 Chinese patents, including the pathology-aided diagnos
 
 ## Research Experience
 
-**Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks (ECML PKDD'17)**
+**Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks (ECML PKDD'17)**<br>
 Data Mining Engineer, JD Finance, Beijing, China<br>
 Jun/2016 – Sep/2017<br>
 - **Fraud Detection System Design and Implementation:** Design and deployment of CLUE, a deep-learning-based fraud detection system using Recurrent Neural Networks (RNN) for JD.com. The system efficiently captured user behavior through click sequences to identify fraudulent patterns in online transactions.
@@ -96,7 +96,7 @@ Jun/2016 – Sep/2017<br>
 
 <br>
 
-**CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation (ICCV'19)**
+**CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation (ICCV'19)**<br>
 Algorithm Engineer, Thorough Image, Beijing, China<br>
 Aug/2018 – Jul/2019<br>
 - **Weakly Supervised Learning Framework:** Designed and implemented CAMEL, a weakly supervised learning framework that utilizes only image-level labels to automatically generate instance-level and approximate pixel-level annotations, significantly reducing the reliance on labor-intensive pixel-level labeling for cancerous region segmentation in histopathology images.
@@ -104,7 +104,7 @@ Aug/2018 – Jul/2019<br>
 
 <br>
 
-**Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning (Nature communications'20)**
+**Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning (Nature communications'20)**<br>
 Algorithm Engineer, Thorough Image, Beijing, China<br>
 Feb/2019 – Aug/2020<br>
 - **Achieved High Diagnostic Performance:** Developed a deep convolutional neural network, trained with 2,123 pixel-level annotated H&E-stained whole slide images (WSIs) to accurately detect gastric cancer. Attained over 99% sensitivity and an average specificity of 80.6% on a real-world test dataset of 3,212 WSIs from three different digital scanners, ensuring robust performance across diverse imaging equipment.
