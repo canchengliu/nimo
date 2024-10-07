@@ -88,8 +88,7 @@ Applied for and granted 9 Chinese patents, including the pathology-aided diagnos
 ## Research Experience
 
 **Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks (ECML PKDD'17)**<br>
-Data Mining Engineer, JD Finance, Beijing, China<br>
-Jun/2016 – Sep/2017<br>
+**Data Mining Engineer, JD Finance, Beijing, China** `Jun/2016 – Sep/2017`
 - **Fraud Detection System Design and Implementation:** Design and deployment of CLUE, a deep-learning-based fraud detection system using Recurrent Neural Networks (RNN) for JD.com. The system efficiently captured user behavior through click sequences to identify fraudulent patterns in online transactions.
 - **Feature Extraction and Data Preprocessing:** Developed innovative techniques for feature extraction from raw web server logs, focusing on user click sequences. Utilized neural-network-based embeddings such as Item2Vec to represent detailed user behavior, improving the accuracy of fraud detection.
 - Addressing Imbalanced Datasets and Concept Drift: Tackled challenges posed by highly imbalanced datasets (fraudulent transactions represent less than 0.1% of the total) and the dynamic nature of fraudulent behaviors (concept drift). Applied undersampling, thresholding, and incremental model updates to improve detection efficiency.
@@ -97,16 +96,14 @@ Jun/2016 – Sep/2017<br>
 <br>
 
 **CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation (ICCV'19)**<br>
-Algorithm Engineer, Thorough Image, Beijing, China<br>
-Aug/2018 – Jul/2019<br>
+**Algorithm Engineer, Thorough Image, Beijing, China** `Aug/2018 – Jul/2019`
 - **Weakly Supervised Learning Framework:** Designed and implemented CAMEL, a weakly supervised learning framework that utilizes only image-level labels to automatically generate instance-level and approximate pixel-level annotations, significantly reducing the reliance on labor-intensive pixel-level labeling for cancerous region segmentation in histopathology images.
 - **Advanced Label Enrichment Techniques:** Developed and integrated combined Multiple Instance Learning (cMIL) with Max-Max and Max-Min criteria, alongside cascade data enhancement and image-level constraints, to enrich supervision information. Achieved performance on par with fully supervised methods in both instance-level classification and pixel-level segmentation on benchmark datasets such as CAMELYON16 and a colorectal adenoma dataset.
 
 <br>
 
 **Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning (Nature communications'20)**<br>
-Algorithm Engineer, Thorough Image, Beijing, China<br>
-Feb/2019 – Aug/2020<br>
+**Algorithm Engineer, Thorough Image, Beijing, China** `Feb/2019 – Aug/2020`
 - **Achieved High Diagnostic Performance:** Developed a deep convolutional neural network, trained with 2,123 pixel-level annotated H&E-stained whole slide images (WSIs) to accurately detect gastric cancer. Attained over 99% sensitivity and an average specificity of 80.6% on a real-world test dataset of 3,212 WSIs from three different digital scanners, ensuring robust performance across diverse imaging equipment.
 - **Conducted Multicenter Validation:** Executed extensive multicenter testing using 1,582 WSIs from two additional medical centers, confirming the system’s consistency and reliability in varied clinical environments.
 - Enhanced Diagnostic Accuracy and Clinical Utility: Demonstrated that the AI assistance system significantly improved pathologists’ diagnostic accuracy and reduced misdiagnoses during trial deployments, highlighting its potential for integration into routine clinical practice to alleviate pathologist workload and enhance patient outcomes.
