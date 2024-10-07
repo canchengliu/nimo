@@ -50,12 +50,28 @@ Xu Gang, Song Zhigang, Sun Zhuo, Ku Calvin, Yang Zhe, **Liu Cancheng**, Wang Shu
 
 ### [**Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning**](https://www.nature.com/articles/s41467-020-18147-8.pdf)
 
-Song Zhigang, Zou Shuangmei, Zhou Weixun, Huang Yong, Shao Liwei, Yuan Jing, Gou Xiangnan, Jin Wei, Wang Zhanbo, Chen Xin, ... **Liu Cancheng** and .  
+Song Zhigang, Zou Shuangmei, Zhou Weixun, Huang Yong, Shao Liwei, Yuan Jing, ..., **Liu Cancheng**, and .  
 *Nature communications*, **11.0**(1.0), 4294, 2020.  
+
+### **Histopathological diagnosis system for gastritis using deep learning algorithm**
+
+Ba Wei, Wang Shuhao, **Liu Cancheng**, Wang Yuefeng, Shi Huaiyin, Song Zhigang, and .  
+*Chinese Medical Sciences Journal*, **36.0**(3.0), 204-209, 2021.  
+
+### [**Clinically applicable Gleason grading (GD) system for prostate cancer based on deep learning**](https://journals.lww.com/cmj/fulltext/2021/04050/clinically_applicable_gleason_grading__gd__system.19.aspx)
+
+Niu Yun, **Liu Can-Cheng**, Zhang Bing-Lin, Song Zhi-Gang, Chen Huang, Liu Ping-Ping, Chen Jing-Si, Wang Shu-Hao, Shi Huai-Yin, Zhong Ding-Rong, and .  
+*Chinese Medical Journal*, **134.0**(7.0), 859-861, 2021.  
+
+### **Transfer of manual annotation in digital pathological images of colorectal cancer with different scanners**
+
+Li Jiangtao, Zheng Bo, Pan Yi, Wang Shuhao, **Liu Cancheng**, Lyu Ning, Sun Zhuo, Zou Shuangmei, and .  
+*Chinese Journal of Colorectal Diseases (Electronic Edition)*, **9.0**(5.0), 475, 2020.  
+
 
 ### [**Automatic deep learning-based colorectal adenoma detection system and its similarities with pathologists**](https://bmjopen.bmj.com/content/bmjopen/10/9/e036423.full.pdf)
 
-Song Zhigang, Yu Chunkai, Zou Shuangmei, Wang Wenmiao, Huang Yong, Ding Xiaohui, Liu Jinhong, Shao Liwei, Yuan Jing, Gou Xiangnan, and .  
+Song Zhigang, Yu Chunkai, Zou Shuangmei, Wang Wenmiao, Huang Yong, Ding Xiaohui, ..., **Liu Cancheng**, and .  
 *BMJ open*, **10.0**(9.0), e036423, 2020.  
 
 ### [**Assessment of deep learning assistance for the pathological diagnosis of gastric cancer**](https://www.sciencedirect.com/science/article/pii/S0893395222002824/pdfft?md5=80e8311c9fa8039e43cb707a125779e2&pid=1-s2.0-S0893395222002824-main.pdf)
@@ -65,24 +81,8 @@ Ba Wei, Wang Shuhao, Shang Meixia, Zhang Ziyan, Wu Huan, Yu Chunkai, Xing Ranran
 
 ### [**Automatic detection of squamous cell carcinoma metastasis in esophageal lymph nodes using semantic segmentation**](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)
 
-Pan Yi, Sun Zhuo, Wang Wenmiao, Yang Zhaoyang, Jia Jia, Feng Xiaolong, Wang Yaxi, Fang Qing, Li Jiangtao, Dai Hongtian, and .  
+Pan Yi, Sun Zhuo, Wang Wenmiao, Yang Zhaoyang, Jia Jia, Feng Xiaolong, Wang Yaxi, Fang Qing, ..., **Liu Cancheng**, and .  
 *Clinical and Translational Medicine*, **10.0**(3.0), e129, 2020.  
-[[PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)]
-
-### **Histopathological diagnosis system for gastritis using deep learning algorithm**
-
-Ba Wei, Wang Shuhao, **Liu Cancheng**, Wang Yuefeng, Shi Huaiyin, Song Zhigang, and .  
-*Chinese Medical Sciences Journal*, **36.0**(3.0), 204-209, 2021.  
-
-### [**Clinically applicable Gleason grading (GD) system for prostate cancer based on deep learning**](https://journals.lww.com/cmj/fulltext/2021/04050/clinically_applicable_gleason_grading__gd__system.19.aspx)
-
-Niu Yun, Liu Can-Cheng, Zhang Bing-Lin, Song Zhi-Gang, Chen Huang, Liu Ping-Ping, Chen Jing-Si, Wang Shu-Hao, Shi Huai-Yin, Zhong Ding-Rong, and .  
-*Chinese Medical Journal*, **134.0**(7.0), 859-861, 2021.  
-
-### **Transfer of manual annotation in digital pathological images of colorectal cancer with different scanners**
-
-Li Jiangtao, Zheng Bo, Pan Yi, Wang Shuhao, **Liu Cancheng**, Lyu Ning, Sun Zhuo, Zou Shuangmei, and .  
-*Chinese Journal of Colorectal Diseases (Electronic Edition)*, **9.0**(5.0), 475, 2020.  
 
 ## Patent
 
@@ -96,13 +96,17 @@ Jun/2016 – Sep/2017<br>
 - **Fraud Detection System Design and Implementation:** Design and deployment of CLUE, a deep-learning-based fraud detection system using Recurrent Neural Networks (RNN) for JD.com. The system efficiently captured user behavior through click sequences to identify fraudulent patterns in online transactions.
 - **Feature Extraction and Data Preprocessing:** Developed innovative techniques for feature extraction from raw web server logs, focusing on user click sequences. Utilized neural-network-based embeddings such as Item2Vec to represent detailed user behavior, improving the accuracy of fraud detection.
 - Addressing Imbalanced Datasets and Concept Drift: Tackled challenges posed by highly imbalanced datasets (fraudulent transactions represent less than 0.1% of the total) and the dynamic nature of fraudulent behaviors (concept drift). Applied undersampling, thresholding, and incremental model updates to improve detection efficiency.
+
 <br>
+
 **CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation (ICCV'19)**
 Algorithm Engineer, Thorough Image, Beijing, China<br>
 Aug/2018 – Jul/2019<br>
 - **Weakly Supervised Learning Framework:** Designed and implemented CAMEL, a weakly supervised learning framework that utilizes only image-level labels to automatically generate instance-level and approximate pixel-level annotations, significantly reducing the reliance on labor-intensive pixel-level labeling for cancerous region segmentation in histopathology images.
 - **Advanced Label Enrichment Techniques:** Developed and integrated combined Multiple Instance Learning (cMIL) with Max-Max and Max-Min criteria, alongside cascade data enhancement and image-level constraints, to enrich supervision information. Achieved performance on par with fully supervised methods in both instance-level classification and pixel-level segmentation on benchmark datasets such as CAMELYON16 and a colorectal adenoma dataset.
+
 <br>
+
 **Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning (Nature communications'20)**
 Algorithm Engineer, Thorough Image, Beijing, China<br>
 Feb/2019 – Aug/2020<br>
@@ -122,6 +126,8 @@ _Algorithm Engineer_<br>
 - **LLMOps Platform Development and Application:** Developed a platform covering the entire lifecycle of large model applications. Utilized large models and cutting-edge technologies to create intelligent applications, promoting business process automation across departments and enhancing information processing speed and decision-making efficiency.
   - Led the design and implementation of core platform functions, integrated internal systems with multi-source data, and guided IT and business teams in developing applications to meet specific requirements.
   - Designed and optimized applications for complex business scenarios using technologies such as RAG (Retrieval-Augmented Generation), CoT (Chain of Thought), Workflow, and Agent.
+
+<br>
 
 ### **Thorough Image** `Dec 2017 – Jun 2022`
 
