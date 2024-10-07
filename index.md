@@ -4,7 +4,8 @@ title: Liu Cancheng
 email:
   url: mailto:canchengliu@foxmail.com
   text: canchengliu@foxmail.com
-phone: **(+86)17801001934**
+phone: 
+  text: (+86)17801001934
 homepage:
   url: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=2-HpgTYAAAAJ
   text: scholar.google.com/citations
@@ -58,7 +59,7 @@ Ba Wei, Wang Shuhao, **Liu Cancheng**, Wang Yuefeng, Shi Huaiyin, Song Zhigang, 
 
 ### [**Clinically applicable Gleason grading (GD) system for prostate cancer based on deep learning**](https://journals.lww.com/cmj/fulltext/2021/04050/clinically_applicable_gleason_grading__gd__system.19.aspx)
 
-Niu Yun, **Liu Can-Cheng**, Zhang Bing-Lin, Song Zhi-Gang, Chen Huang, Liu Ping-Ping, Chen Jing-Si, Wang Shu-Hao, Shi Huai-Yin, Zhong Ding-Rong, and .  
+Niu Yun, **Liu Can-Cheng**, Zhang Bing-Lin, Song Zhi-Gang, Chen Huang, Liu Ping-Ping and .  
 *Chinese Medical Journal*, **134.0**(7.0), 859-861, 2021.  
 
 ### **Transfer of manual annotation in digital pathological images of colorectal cancer with different scanners**
@@ -66,16 +67,15 @@ Niu Yun, **Liu Can-Cheng**, Zhang Bing-Lin, Song Zhi-Gang, Chen Huang, Liu Ping-
 Li Jiangtao, Zheng Bo, Pan Yi, Wang Shuhao, **Liu Cancheng**, Lyu Ning, Sun Zhuo, Zou Shuangmei, and .  
 *Chinese Journal of Colorectal Diseases (Electronic Edition)*, **9.0**(5.0), 475, 2020.  
 
+### [**Assessment of deep learning assistance for the pathological diagnosis of gastric cancer**](https://www.sciencedirect.com/science/article/pii/S0893395222002824/pdfft?md5=80e8311c9fa8039e43cb707a125779e2&pid=1-s2.0-S0893395222002824-main.pdf)
+
+Ba Wei, Wang Shuhao, Shang Meixia, Zhang Ziyan, Wu Huan, Yu Chunkai, Xing Ranran, Wang Wenjuan, Wang Lang, **Liu Cancheng**, and .  
+*Modern Pathology*, **35.0**(9.0), 1262-1268, 2022.  
 
 ### [**Automatic deep learning-based colorectal adenoma detection system and its similarities with pathologists**](https://bmjopen.bmj.com/content/bmjopen/10/9/e036423.full.pdf)
 
 Song Zhigang, Yu Chunkai, Zou Shuangmei, Wang Wenmiao, Huang Yong, Ding Xiaohui, ..., **Liu Cancheng**, and .  
 *BMJ open*, **10.0**(9.0), e036423, 2020.  
-
-### [**Assessment of deep learning assistance for the pathological diagnosis of gastric cancer**](https://www.sciencedirect.com/science/article/pii/S0893395222002824/pdfft?md5=80e8311c9fa8039e43cb707a125779e2&pid=1-s2.0-S0893395222002824-main.pdf)
-
-Ba Wei, Wang Shuhao, Shang Meixia, Zhang Ziyan, Wu Huan, Yu Chunkai, Xing Ranran, Wang Wenjuan, Wang Lang, **Liu Cancheng**, and .  
-*Modern Pathology*, **35.0**(9.0), 1262-1268, 2022.  
 
 ### [**Automatic detection of squamous cell carcinoma metastasis in esophageal lymph nodes using semantic segmentation**](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)
 
