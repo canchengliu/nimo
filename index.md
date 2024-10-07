@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Liu Cancheng
+title: Cancheng Liu
 email:
   url: mailto:canchengliu@foxmail.com
   text: canchengliu@foxmail.com
@@ -13,7 +13,7 @@ address: Ziroom Apartment, Room 409, 168 Jijiamiao Road, Chaoyang District, Beij
 ---
 
 <!-- # Wode **Liu** -->
-# **Liu Cancheng**
+# **Cancheng Liu**
 
 <!--
 include contact information from the front matter
@@ -34,58 +34,31 @@ GuangZhou, China
 ```
 
 - Bachelor of Software Engineering
-
+- GPA: 3.5/5
 
 ## Publications
 
-### [**Session-based fraud detection in online e-commerce transactions using recurrent neural networks**](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/SWang_ECMLPKDD_2017.pdf)
+### Wang S, **Liu C**, Gao X, et al. **Session-based fraud detection in online e-commerce transactions using recurrent neural networks[C]**//_Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2017, Skopje, Macedonia, September 18–22, 2017, Proceedings, Part III 10. Springer International Publishing_, 2017: 241-252. [[PDF](https://people.iiis.tsinghua.edu.cn/~weixu/Krvdro9c/SWang_ECMLPKDD_2017.pdf)]
 
-Wang Shuhao, **Liu Cancheng**, Gao Xiang, Qu Hongtao, Xu Wei, and .  
-*ECML PKDD*, 241-252, 2017.  
+### Xu G, Song Z, Sun Z, … **Liu C**, et al. **Camel: A weakly supervised learning framework for histopathology image segmentation[C]**//_Proceedings of the IEEE/CVF International Conference on computer vision_. 2019: 10682-10691. [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf)]
 
-### [**Camel: A weakly supervised learning framework for histopathology image segmentation**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_CAMEL_A_Weakly_Supervised_Learning_Framework_for_Histopathology_Image_Segmentation_ICCV_2019_paper.pdf)
+### Song Z, Zou S, Zhou W, … **Liu C**, et al. **Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning[J]**. _Nature communications_, 2020, 11(1): 4294. [[PDF](https://www.nature.com/articles/s41467-020-18147-8.pdf)]
 
-Xu Gang, Song Zhigang, Sun Zhuo, Ku Calvin, Yang Zhe, **Liu Cancheng**, Wang Shuhao, Ma Jianpeng, Xu Wei, and .  
-*ICCV*, 10682-10691, 2019.  
+### Niu Y, **Liu C C**, Zhang B L, et al. **Clinically applicable Gleason grading (GD) system for prostate cancer based on deep learning[J]**. _Chinese Medical Journal_, 2021, 134(7): 859-861. [[PDF](https://journals.lww.com/cmj/_layouts/15/oaks.journals/downloadpdf.aspx?an=00029330-202104050-00019)]
 
-### [**Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning**](https://www.nature.com/articles/s41467-020-18147-8.pdf)
+### Ba W, Wang S, **Liu C**, et al. **Histopathological diagnosis system for gastritis using deep learning algorithm[J]**. _Chinese Medical Sciences Journal_, 2021, 36(3): 204-209. [[HTML](https://www.sciencedirect.com/science/article/pii/S1001929421000584)]
 
-Song Zhigang, Zou Shuangmei, Zhou Weixun, Huang Yong, Shao Liwei, Yuan Jing, ..., **Liu Cancheng**, and .  
-*Nature communications*, **11.0**(1.0), 4294, 2020.  
+### Song Z, Yu C, Zou S, … **Liu C**, et al. **Automatic deep learning-based colorectal adenoma detection system and its similarities with pathologists[J]**. _BMJ open_, 2020, 10(9): e036423. [[PDF](https://bmjopen.bmj.com/content/bmjopen/10/9/e036423.full.pdf)]
 
-### **Histopathological diagnosis system for gastritis using deep learning algorithm**
+### Ba W, Wang S, Shang M, … **Liu C**, et al. **Assessment of deep learning assistance for the pathological diagnosis of gastric cancer[J]**. _Modern Pathology_, 2022, 35(9): 1262-1268. [[HTML](https://www.sciencedirect.com/science/article/pii/S0893395222002824)]
 
-Ba Wei, Wang Shuhao, **Liu Cancheng**, Wang Yuefeng, Shi Huaiyin, Song Zhigang, and .  
-*Chinese Medical Sciences Journal*, **36.0**(3.0), 204-209, 2021.  
+### Pan Y, Sun Z, Wang W, … **Liu C**, et al. **Automatic detection of squamous cell carcinoma metastasis in esophageal lymph nodes using semantic segmentation[J]**. _Clinical and Translational Medicine_, 2020, 10(3): e129. [[PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)]
 
-### [**Clinically applicable Gleason grading (GD) system for prostate cancer based on deep learning**](https://journals.lww.com/cmj/fulltext/2021/04050/clinically_applicable_gleason_grading__gd__system.19.aspx)
-
-Niu Yun, **Liu Can-Cheng**, Zhang Bing-Lin, Song Zhi-Gang, Chen Huang, Liu Ping-Ping and .  
-*Chinese Medical Journal*, **134.0**(7.0), 859-861, 2021.  
-
-### **Transfer of manual annotation in digital pathological images of colorectal cancer with different scanners**
-
-Li Jiangtao, Zheng Bo, Pan Yi, Wang Shuhao, **Liu Cancheng**, Lyu Ning, Sun Zhuo, Zou Shuangmei, and .  
-*Chinese Journal of Colorectal Diseases (Electronic Edition)*, **9.0**(5.0), 475, 2020.  
-
-### [**Assessment of deep learning assistance for the pathological diagnosis of gastric cancer**](https://www.sciencedirect.com/science/article/pii/S0893395222002824/pdfft?md5=80e8311c9fa8039e43cb707a125779e2&pid=1-s2.0-S0893395222002824-main.pdf)
-
-Ba Wei, Wang Shuhao, Shang Meixia, Zhang Ziyan, Wu Huan, Yu Chunkai, Xing Ranran, Wang Wenjuan, Wang Lang, **Liu Cancheng**, and .  
-*Modern Pathology*, **35.0**(9.0), 1262-1268, 2022.  
-
-### [**Automatic deep learning-based colorectal adenoma detection system and its similarities with pathologists**](https://bmjopen.bmj.com/content/bmjopen/10/9/e036423.full.pdf)
-
-Song Zhigang, Yu Chunkai, Zou Shuangmei, Wang Wenmiao, Huang Yong, Ding Xiaohui, ..., **Liu Cancheng**, and .  
-*BMJ open*, **10.0**(9.0), e036423, 2020.  
-
-### [**Automatic detection of squamous cell carcinoma metastasis in esophageal lymph nodes using semantic segmentation**](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ctm2.129)
-
-Pan Yi, Sun Zhuo, Wang Wenmiao, Yang Zhaoyang, Jia Jia, Feng Xiaolong, Wang Yaxi, Fang Qing, ..., **Liu Cancheng**, and .  
-*Clinical and Translational Medicine*, **10.0**(3.0), e129, 2020.  
+### Li J, Zheng B, Pan Y, … **Liu C**, et al. **Transfer of manual annotation in digital pathological images of colorectal cancer with different scanners[J]**. _Chinese Journal of Colorectal Diseases (Electronic Edition)_, 2020, 9(05): 475. [[HTML](https://icu.cma-cmc.com.cn/EN/abstract/abstract138.shtml)]
 
 ## Patents
 
-Applied for and granted 9 Chinese patents, including the _pathology-aided diagnostic system based on artificial intelligence (Publication No. CN109360646A)_.
+Applied for and granted 9 Chinese patents, including the _pathology-aided diagnostic system based on artificial intelligence (Publication No. CN109360646A)_, among others.
 
 ## Research Experience
 
