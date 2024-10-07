@@ -81,7 +81,7 @@ Song Zhigang, Yu Chunkai, Zou Shuangmei, Wang Wenmiao, Huang Yong, Ding Xiaohui,
 Pan Yi, Sun Zhuo, Wang Wenmiao, Yang Zhaoyang, Jia Jia, Feng Xiaolong, Wang Yaxi, Fang Qing, ..., **Liu Cancheng**, and .  
 *Clinical and Translational Medicine*, **10.0**(3.0), e129, 2020.  
 
-## Patent
+## Patents
 
 Applied for and granted 9 Chinese patents, including the pathology-aided diagnostic system based on artificial intelligence (Publication No. CN109360646A).
 
