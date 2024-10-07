@@ -1,17 +1,18 @@
 ---
 layout: cv
-title: Cancheng Liu
+title: Liu Cancheng
 email:
   url: mailto:canchengliu@foxmail.com
   text: canchengliu@foxmail.com
-phone: +86 17801001934
+phone: 
+  text: +86 17801001934
 homepage:
   url: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=2-HpgTYAAAAJ
   text: scholar.google.com/citations
 ---
 
 <!-- # Wode **Liu** -->
-# Cancheng **Liu**
+# **Liu Cancheng**
 
 <!--
 include contact information from the front matter
