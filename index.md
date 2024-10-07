@@ -7,7 +7,9 @@ email:
 phone: +86 17801001934
 homepage:
   url: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=2-HpgTYAAAAJ
-  text: scholar.google.com/citations
+  text: scholar.google.com
+address: Ziroom Apartment, Room 409, 168 Jijiamiao Road, Chaoyang District, Beijing, 100070, China.
+
 ---
 
 <!-- # Wode **Liu** -->
