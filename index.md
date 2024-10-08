@@ -7,7 +7,7 @@ email:
 phone: +86 17801001934
 homepage:
   url: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=2-HpgTYAAAAJ
-  text: scholar.google.com
+  text: Google Scholar
 address: Ziroom Apartment, Room 409, 168 Jijiamiao Road, Chaoyang District, Beijing, 100070, China.
 
 ---
@@ -27,14 +27,14 @@ Supported arguments:
 
 ## Education
 
-### **Sun Yat-sen University** `2012.9 - 2016.6`
+### **Sun Yat-sen University** `Sep/2012 – Jun/2016`
 
 ```
-GuangZhou, China
+Guangzhou, China
 ```
 
 - Bachelor of Software Engineering
-- GPA: 3.5/5
+- GPA: 3.5/5.0
 
 ## Publications
 
@@ -58,21 +58,21 @@ GuangZhou, China
 
 ## Patents
 
-Applied for and granted 9 Chinese patents, including the _pathology-aided diagnostic system based on artificial intelligence (Publication No. CN109360646A)_, among others.
+Applied for and granted 9 Chinese patents, including the _pathology-aided diagnostic system based on artificial intelligence_ (Publication No. CN109360646A), among others.
 
 ## Research Experience
 
-**Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks (ECML PKDD'17)**<br>
+**Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Network (ECML PKDD'17)**<br>
 _Data Mining Engineer, JD Finance, Beijing, China_ `Jun/2016 – Sep/2017`
 
-- **Fraud Detection System Design and Implementation:** Design and deployment of CLUE, a deep-learning-based fraud detection system using Recurrent Neural Networks (RNN) for JD.com. The system efficiently captured user behavior through click sequences to identify fraudulent patterns in online transactions.
+- **Fraud Detection System Design and Implementation:** Design and deployment of CLUE, a deep-learning-based fraud detection system using Recurrent Neural Network (RNN) for JD.com. The system efficiently captured user behavior through click sequences to identify fraudulent patterns in online transactions.
 - **Feature Extraction and Data Preprocessing:** Developed innovative techniques for feature extraction from raw web server logs, focusing on user click sequences. Utilized neural-network-based embeddings such as Item2Vec to represent detailed user behavior, improving the accuracy of fraud detection.
-- Addressing Imbalanced Datasets and Concept Drift: Tackled challenges posed by highly imbalanced datasets (fraudulent transactions represent less than 0.1% of the total) and the dynamic nature of fraudulent behaviors (concept drift). Applied undersampling, thresholding, and incremental model updates to improve detection efficiency.
+- **Addressing Imbalanced Datasets and Concept Drift:** Tackled challenges posed by highly imbalanced datasets (fraudulent transactions represent less than 0.1% of the total) and the dynamic nature of fraudulent behaviors (concept drift). Applied undersampling, thresholding, and incremental model updates to improve detection efficiency.
 
 <br>
 
 **CAMEL: A Weakly Supervised Learning Framework for Histopathology Image Segmentation (ICCV'19)**<br>
-_Algorithm Engineer, Thorough Image, Beijing, China_ `Aug/2018 – Jul/2019`
+_Algorithm Engineer, Thorough Images, Beijing, China_ `Aug/2018 – Jul/2019`
 
 - **Weakly Supervised Learning Framework:** Designed and implemented CAMEL, a weakly supervised learning framework that utilizes only image-level labels to automatically generate instance-level and approximate pixel-level annotations, significantly reducing the reliance on labor-intensive pixel-level labeling for cancerous region segmentation in histopathology images.
 - **Advanced Label Enrichment Techniques:** Developed and integrated combined Multiple Instance Learning (cMIL) with Max-Max and Max-Min criteria, alongside cascade data enhancement and image-level constraints, to enrich supervision information. Achieved performance on par with fully supervised methods in both instance-level classification and pixel-level segmentation on benchmark datasets such as CAMELYON16 and a colorectal adenoma dataset.
@@ -80,7 +80,7 @@ _Algorithm Engineer, Thorough Image, Beijing, China_ `Aug/2018 – Jul/2019`
 <br>
 
 **Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning (Nature communications'20)**<br>
-_Algorithm Engineer, Thorough Image, Beijing, China_ `Feb/2019 – Aug/2020`
+_Algorithm Engineer, Thorough Images, Beijing, China_ `Feb/2019 – Aug/2020`
 
 - **Achieved High Diagnostic Performance:** Developed a deep convolutional neural network, trained with 2,123 pixel-level annotated H&E-stained whole slide images (WSIs) to accurately detect gastric cancer. Attained over 99% sensitivity and an average specificity of 80.6% on a real-world test dataset of 3,212 WSIs from three different digital scanners, ensuring robust performance across diverse imaging equipment.
 - **Conducted Multicenter Validation:** Executed extensive multicenter testing using 1,582 WSIs from two additional medical centers, confirming the system’s consistency and reliability in varied clinical environments.
@@ -101,11 +101,11 @@ _Algorithm Engineer_<br>
 
 <br>
 
-### **Thorough Image** `Dec 2017 – Jun 2022`
+### **Thorough Image** `Dec/2017 – Jun/2022`
 
 _Algorithm Engineer_<br>
 
-- **Model Development and Inference Framework:** Developed a framework for whole-slide pathological images (WSIs) to accelerate the development and iteration of multi-organ disease identification models.
+- **Model Development and Inference Framework:** Developed a framework for whole slide images (WSIs) to accelerate the development and iteration of multi-organ disease identification models.
   - Designed and built an architecture offering scalable data management, flexible data processing pipelines, modular model architectures, distributed inference support, and comprehensive evaluation tools.
   - Led the development and continuous optimization of the project, maintaining a flexible and stable model development pipeline.
 - **Collaborative Research:** Worked with pathology departments of multiple hospitals to develop a multi-organ, multi-disease, multi-task pathological image-assisted diagnosis model library. Integrated it into diagnostic assistance systems and applied it in hospitals, summarizing research results for academic publications.
@@ -145,9 +145,9 @@ _Data Mining Engineer (Intern)_<br>
 
 ## Skills
 **Programming Languages:** Python, C++, Scala <br>
-**AI Frameworks:** PyTorch, TensorFlow, DeepSpeed, Accelerate <br>
-**Algorithms:** CNN, RNN, Transformers, CLIP, Generative Models <br>
-**Big Data:** Frameworks (Spark, Hadoop, Hive), Middlewares (Kafka), Storages (NoSQL Databases, S3), ETL <br>
+**Frameworks:** PyTorch, TensorFlow, DeepSpeed, Accelerate <br>
+**Algorithms:** CNN, RNN, Transformers, CLIP, LLM <br>
+**Big Data:** Frameworks (Spark, Hadoop, Hive), Middleware (Kafka), Storages (NoSQL Databases, S3), ETL <br>
 **DevOps:** Docker, Kubernetes, Jenkins <br>
 
 
