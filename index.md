@@ -109,11 +109,11 @@ _Algorithm Engineer_<br>
 - **Model Development and Inference Framework:** Developed a framework for whole slide images (WSIs) to accelerate the development and iteration of multi-organ disease identification models.
   - Designed and built an architecture offering scalable data management, flexible data processing pipelines, modular model architectures, distributed inference support, and comprehensive evaluation tools.
   - Led the development and continuous optimization of the project, maintaining a flexible and stable model development pipeline.
-- **Collaborative Research:** Worked with pathology departments of multiple hospitals to develop a multi-organ, multi-disease, multi-task pathological image-assisted diagnosis model library. Integrated it into diagnostic assistance systems and applied it in hospitals, summarizing research results for academic publications.
+- **Collaborative Research:** Worked with pathology departments of multiple hospitals to develop a multi-organ disease, multi-task pathological image-assisted diagnosis model library. Integrated it into diagnostic assistance systems and applied it in hospitals, summarizing research results for academic publications.
   - Managed data collection, annotation scheme design, and data processing under the guidance of department heads and physicians.
   - Collaborated closely with physicians to design model architectures and experimental protocols based on the characteristics of different organs and diseases, conducting model training and optimization.
-  - Conducted experimental research, organized project findings, and co-authored papers published in journals such as Nature Communications in 2020.
-  - Partnered with the product development team to drive the clinical translation and application of technological achievements.
+  - Conducted experimental research, organized project outcomes, and co-authored publications in reputable journals, including _Nature communications'20_.
+  - Collaborated with the product development team to facilitate the clinical translation and implementation of technological innovations into diagnostic assistance systems used in hospitals.
 
 <br>
 <br>
