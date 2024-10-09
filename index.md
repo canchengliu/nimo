@@ -93,11 +93,11 @@ using historical user sessions containing different items to represent detailed 
 
 _Algorithm Engineer_<br>
 
-- **Fine-tuning Vertical Domain Large Models:** Constructed task-specific datasets and fine-tuned large models to enhance their application in the financial sector.
-  - Developed a review instruction Q&A dataset covering various document error types, fine-tuned a document review model, created an intelligent review system, and deployed it to the Shanghai, Shenzhen, and Beijing Stock Exchanges. This significantly reduced manual review costs and minimized potential losses and negative public opinion from human errors.
+- **Fine-tuning Vertical Domain large language models (LLMs):** Constructed task-specific datasets and fine-tuned LLMs to enhance their application in the financial sector.
+  - Constructed comprehensive review instruction datasets encompassing various document error types. Leveraged instruction tuning to fine-tune a document review model, subsequently developing and deploying an intelligent review system across the Shanghai, Shenzhen, and Beijing Stock Exchanges. This implementation led to a significant reduction in manual review costs and mitigated potential losses and negative public perception arising from human errors.
   - Fine-tuned multimodal models to improve the accuracy of extracting structured information from non-standardized documents and receipts.
-- **LLMOps Platform Development and Application:** Developed a platform covering the entire lifecycle of large model applications. Utilized large models and cutting-edge technologies to create intelligent applications, promoting business process automation across departments and enhancing information processing speed and decision-making efficiency.
-  - Led the design and implementation of core platform functions, integrated internal systems with multi-source data, and guided IT and business teams in developing applications to meet specific requirements.
+- **LLMOps Platform Development and Application:** Developed a platform covering the entire lifecycle of LLM applications. Utilized LLMs and cutting-edge technologies to create intelligent applications, promoting business process automation across departments and enhancing information processing speed and decision-making efficiency.
+  - Developed platform functions, integrated internal systems with multi-source data, and guided IT and business teams in developing applications to meet specific requirements.
   - Designed and optimized applications for complex business scenarios using technologies such as RAG (Retrieval-Augmented Generation), CoT (Chain of Thought), Workflow, and Agent.
 
 <br>
@@ -146,6 +146,7 @@ _Data Mining Engineer (Intern)_<br>
 
 ## Skills
 **Programming Languages:** Python, C++, Scala <br>
+**Algorithms:** Segmentation, Object Detection, Transformers, Sequence Models, LLMs, LVLMs <br>
 **Frameworks:** PyTorch, TensorFlow, DeepSpeed, Accelerate <br>
 **Big Data:** Frameworks (Spark, Hadoop, Hive), Middleware (Kafka), Elasticsearch, Storages, ETL, <br>
 **DevOps:** Docker, Kubernetes, Jenkins <br>
