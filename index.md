@@ -93,7 +93,7 @@ using historical user sessions containing different items to represent detailed 
 
 _Algorithm Engineer_<br>
 
-- **Fine-tuning Vertical Domain large language models (LLMs):** Constructed task-specific datasets and fine-tuned LLMs to enhance their application in the financial sector.
+- **Instruction-Tuned Vertical Domain LLMs:** Constructed task-specific datasets and fine-tuned LLMs to enhance their application in the financial sector.
   - Constructed comprehensive review instruction datasets encompassing various document error types. Leveraged instruction tuning to fine-tune a document review model, subsequently developing and deploying an intelligent review system across the Shanghai, Shenzhen, and Beijing Stock Exchanges. This implementation led to a significant reduction in manual review costs and mitigated potential losses and negative public perception arising from human errors.
   - Fine-tuned multimodal models to improve the accuracy of extracting structured information from non-standardized documents and receipts.
 - **LLMOps Platform Development and Application:** Developed a platform covering the entire lifecycle of LLM applications. Utilized LLMs and cutting-edge technologies to create intelligent applications, promoting business process automation across departments and enhancing information processing speed and decision-making efficiency.
