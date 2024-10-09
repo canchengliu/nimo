@@ -137,7 +137,7 @@ _Data Mining Engineer (Intern)_<br>
 **Programming Languages:** Python, C++, Scala <br>
 **Algorithms:** Segmentation, Object Detection, Transformers, Sequence Models, LLMs, LVLMs <br>
 **Frameworks:** PyTorch, TensorFlow, DeepSpeed, Accelerate <br>
-**Big Data:** Frameworks (Spark, Hadoop, Hive), Middleware (Kafka), Elasticsearch, Storages, ETL, <br>
+**Big Data:** Frameworks (Spark, Hadoop, Hive), Middleware (Kafka), Elasticsearch, Storages, ETL <br>
 **DevOps:** Docker, Kubernetes, Jenkins <br>
 
 
