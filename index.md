@@ -68,16 +68,12 @@ _Algorithm Engineer, Thorough Images, Beijing, China_ `Aug/2018 – Jul/2019`
 - **Weakly Supervised Learning Framework:** Designed and implemented CAMEL, a weakly supervised learning framework that utilizes only image-level labels to automatically generate instance-level and approximate pixel-level annotations, significantly reducing the reliance on labor-intensive pixel-level labeling for cancerous region segmentation in histopathology images.
 - **Advanced Label Enrichment Techniques:** Developed and integrated combined Multiple Instance Learning (cMIL) with Max-Max and Max-Min criteria, alongside cascade data enhancement and image-level constraints, to enrich supervision information. Achieved performance on par with fully supervised methods in both instance-level classification and pixel-level segmentation on benchmark datasets such as CAMELYON16 and a colorectal adenoma dataset.
 
-<br>
-
 **Clinically applicable histopathological diagnosis system for gastric cancer detection using deep learning (Nature communications'20)**<br>
 _Algorithm Engineer, Thorough Images, Beijing, China_ `Feb/2019 – Aug/2020`
 
 - **Achieved High Diagnostic Performance:** Developed a deep convolutional neural network, trained with 2,123 pixel-level annotated H&E-stained whole slide images (WSIs) to accurately detect gastric cancer. Attained over 99% sensitivity and an average specificity of 80.6% on a real-world test dataset of 3,212 WSIs from three different digital scanners, ensuring robust performance across diverse imaging equipment.
 - **Conducted Multicenter Validation:** Executed extensive multicenter testing using 1,582 WSIs from two additional medical centers, confirming the system’s consistency and reliability in varied clinical environments.
 - **Enhanced Diagnostic Accuracy and Clinical Utility:** Demonstrated that the AI assistance system significantly improved pathologists’ diagnostic accuracy and reduced misdiagnoses during trial deployments, highlighting its potential for integration into routine clinical practice to alleviate pathologist workload and enhance patient outcomes.
-
-<br>
 
 **Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Network (ECML PKDD'17)**<br>
 _Data Mining Engineer, JD Finance, Beijing, China_ `Jun/2016 – Sep/2017`
@@ -100,8 +96,6 @@ _Algorithm Engineer_<br>
   - Developed platform functions, integrated internal systems with multi-source data, and guided IT and business teams in developing applications to meet specific requirements.
   - Designed and optimized applications for complex business scenarios using technologies such as RAG (Retrieval-Augmented Generation), CoT (Chain of Thought), Workflow, and Agent.
 
-<br>
-
 ### **Thorough Images** `Dec/2017 – Jun/2022`
 
 _Algorithm Engineer_<br>
@@ -115,10 +109,6 @@ _Algorithm Engineer_<br>
   - Conducted experimental research, organized project outcomes, and co-authored publications in reputable journals, including _Nature communications'20_.
   - Collaborated with the product development team to facilitate the clinical translation and implementation of technological innovations into diagnostic assistance systems used in hospitals.
 
-<br>
-<br>
-<br>
-
 ### **Institute of Data Science, Tsinghua University** `Sep/2017 – Dec/2017`
 
 _Algorithm Engineer_<br>
@@ -127,7 +117,6 @@ _Algorithm Engineer_<br>
   - Expanded and enhanced the training dataset by using PyLaTeX to automatically generate diverse and annotated table data.
   - Trained and optimized various detection and recognition models, achieving high-precision table structure recognition and content extraction.
 
-<br>
 
 ### **JD Finance - Risk Management Department** `Jun/2016 – Sep/2017`
 
@@ -136,13 +125,13 @@ _Data Mining Engineer_<br>
 - **Fraud Detection Based on User Browsing Behavior:** Developed a real-time fraud detection system that accurately identified and prevented fraudulent transactions by analyzing user browsing behavior sequences. Research results were published at the ECML PKDD 2017 conference.
 - **Fraud Detection Based on Relational Networks:** Built a relational network with various node types based on user information and browsing behavior. Implemented graph-related algorithms using Spark GraphX to identify potential risk users by tracing blacklisted users and flagging graylisted ones.
 
-<br>
-
 ### **Alibaba - YunOS** `Jul/2015 – Aug/2015`
 
 _Data Mining Engineer (Intern)_<br>
 
 - **Recommendation System:** Developed app recommendations based on community discovery algorithms.
+
+<br>
 
 ## Skills
 **Programming Languages:** Python, C++, Scala <br>
