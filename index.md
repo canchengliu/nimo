@@ -98,7 +98,9 @@ _Algorithm Engineer_<br>
 
 ### **Thorough Images** `Dec/2017 – Jun/2022`
 
-_Algorithm Engineer_<br>
+_Algorithm Engineer (First Employee)_<br>
+
+As the first employee, I assumed multiple roles, from technical lead to project manager, ensuring the effective execution of all initiatives and transforming the startup from its inception into a thriving entity in the medical imaging field.
 
 - **Model Development and Inference Framework:** Developed a framework for whole slide images (WSIs) to accelerate the development and iteration of multi-organ disease identification models.
   - Designed and built an architecture offering scalable data management, flexible data processing pipelines, modular model architectures, distributed inference support, and comprehensive evaluation tools.
