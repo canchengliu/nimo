@@ -100,8 +100,6 @@ _Algorithm Engineer_<br>
 
 _Algorithm Engineer (First Employee)_<br>
 
-As the first employee, I assumed multiple roles, from technical lead to project manager, ensuring the effective execution of all initiatives and transforming the startup from its inception into a thriving entity in the medical imaging field.
-
 - **Model Development and Inference Framework:** Developed a framework for whole slide images (WSIs) to accelerate the development and iteration of multi-organ disease identification models.
   - Designed and built an architecture offering scalable data management, flexible data processing pipelines, modular model architectures, distributed inference support, and comprehensive evaluation tools.
   - Led the development and continuous optimization of the project, maintaining a flexible and stable model development pipeline.
@@ -110,6 +108,8 @@ As the first employee, I assumed multiple roles, from technical lead to project 
   - Collaborated closely with physicians to design model architectures and experimental protocols based on the characteristics of different organs and diseases, conducting model training and optimization.
   - Conducted experimental research, organized project outcomes, and co-authored publications in reputable journals, including _Nature communications'20_.
   - Collaborated with the product development team to facilitate the clinical translation and implementation of technological innovations into diagnostic assistance systems used in hospitals.
+- **Multifaceted Role Management:** As the first employee, I assumed multiple roles, from technical lead to project manager, ensuring the effective execution of all initiatives and transforming the startup from its inception into a thriving entity in the medical imaging field.
+
 
 ### **Institute of Data Science, Tsinghua University** `Sep/2017 – Dec/2017`
 
